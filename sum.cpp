@@ -1,10 +1,12 @@
 #include <iostream>
-
+i
 int main(){
 	
 	int a = 0;
 	int b = 0;
 	int sum = 0;
+	
+	//asking user
 	std::cout << "Give me two numbers" << std::endl;
 	std::cin >> a;
 	std::cin >> b;
