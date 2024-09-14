@@ -4,7 +4,7 @@ int main(){
 
 	int n = 0;
 	int act = 0;
-	
+	//asking for input	
 	std::cout << "Please input a number" << std::endl;
 	std::cin >> n;
 	
