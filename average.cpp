@@ -2,7 +2,7 @@
 #include <vector>
 
 int main(){
-
+	//asking for input
 	std::cout << "Input two numbers" << std::endl;
 	int a;
 	int b;
